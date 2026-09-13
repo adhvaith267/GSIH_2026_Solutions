@@ -87,11 +87,3 @@ The goal of this repository is not only to preserve the code submissions, but to
 **Simulation and systems reasoning** — time-dependent obstacles, battery and payload constraints, resource contention, and multi-agent scheduling.
 
 **Engineering clarity** — each solution separates the problem statement, implementation, examples, algorithmic explanation, and complexity discussion.
-
-## Disclaimer
-
-The supplied dataset and problem statement remain subject to the HackerRank challenge terms. The implementation in this repository is provided for portfolio and educational use.
-
-## Author
-
-**Adhvaith G V**
