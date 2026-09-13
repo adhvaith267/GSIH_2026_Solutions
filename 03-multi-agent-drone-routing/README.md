@@ -4,8 +4,7 @@
 
 Build a routing engine for a fleet of drones delivering packages across a coordinate grid while handling payload limits, battery consumption, delivery deadlines, time-dependent No-Fly Zones (NFZs), charging stations, and shared charging capacity.
 
-**Problem statement:** [HackerRank — Goldman Sachs India Hackathon 2026 CS](https://www.hackerrank.com/goldman-sachs-india-hackathon-2026-cs)  
-**Local problem statement:** [`problem.md`](./problem.md)
+**Complete Problem Statement:** [`problem.md`](./problem.md)
 
 ## Solution
 
