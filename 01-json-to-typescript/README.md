@@ -4,7 +4,7 @@
 
 Given a JSON array of objects, generate a deterministic TypeScript type declaration. The challenge is stricter than ordinary JSON-to-TypeScript conversion because the output must follow exact rules for merging structures, optional properties, arrays, unions, interface naming, ordering, and formatting.
 
-**problem statement:** [`problem.md`](./problem.md)
+**Complete Problem Statement:** [`problem.md`](./problem.md)
 
 ## Solution
 
