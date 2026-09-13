@@ -4,8 +4,7 @@
 
 Plan a multi-day group trip by selecting activities that maximize group satisfaction while respecting shared budget, energy, duration, interest, and event-driven constraints. The planner must also re-plan the remaining itinerary whenever the state of the trip changes.
 
-**Problem statement:** [HackerRank — Goldman Sachs India Hackathon 2026 CS](https://www.hackerrank.com/goldman-sachs-india-hackathon-2026-cs)  
-**Local problem statement:** [`problem.md`](./problem.md)
+**Problem statement:** [`problem.md`](./problem.md)
 
 ## Solution
 
