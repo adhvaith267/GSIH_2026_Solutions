@@ -1,0 +1,39 @@
+{
+  "flight_manifest": [
+    {
+      "drone_id": "drone_1",
+      "path": [
+        {
+          "x": 50.0,
+          "y": 50.0,
+          "t": 0.0,
+          "action": "PICKUP",
+          "delivery_ids": [
+            "d2",
+            "d1"
+          ]
+        },
+        {
+          "x": 30,
+          "y": 80,
+          "t": 36.055513,
+          "action": "DELIVER",
+          "delivery_id": "d2"
+        },
+        {
+          "x": 70,
+          "y": 60,
+          "t": 80.776872,
+          "action": "DELIVER",
+          "delivery_id": "d1"
+        },
+        {
+          "x": 50.0,
+          "y": 50.0,
+          "t": 103.137552,
+          "action": "RETURN"
+        }
+      ]
+    }
+  ]
+}
