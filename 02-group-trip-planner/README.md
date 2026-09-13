@@ -4,7 +4,7 @@
 
 Plan a multi-day group trip by selecting activities that maximize group satisfaction while respecting shared budget, energy, duration, interest, and event-driven constraints. The planner must also re-plan the remaining itinerary whenever the state of the trip changes.
 
-**Problem statement:** [`problem.md`](./problem.md)
+**Complete Problem Statement:** [`problem.md`](./problem.md)
 
 ## Solution
 
